@@ -1,2 +1,2 @@
-/target/*
-!/target/slides.pdf
+/slides/target/*
+!/slides/target/slides.pdf
