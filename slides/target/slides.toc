@@ -1,9 +1,0 @@
-\babel@toc {german}{}
-\beamer@sectionintoc {2}{STEOP}{4}{0}{1}
-\beamer@sectionintoc {3}{LVA-Typen}{7}{0}{2}
-\beamer@sectionintoc {4}{Semesterempfehlung}{8}{0}{3}
-\beamer@subsectionintoc {4}{1}{Algebra und Diskrete Mathematik}{9}{0}{3}
-\beamer@subsectionintoc {4}{2}{LVAs}{11}{0}{3}
-\beamer@sectionintoc {5}{Begriffsdefinitionen}{12}{0}{4}
-\beamer@sectionintoc {6}{TISS -- ganz kurz}{21}{0}{5}
-\beamer@sectionintoc {7}{Weitere Hilfestellungen}{22}{0}{6}
